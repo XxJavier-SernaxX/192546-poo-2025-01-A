@@ -23,9 +23,12 @@ Write a short paragraph (5–8 sentences):
 
 *(Hints: you can talk about UML, encapsulation, constructors, or understanding the exam in English.)*
 
+-pienso que lo que he aprendido es a armar los contructores ,esto mas que nada es viendo videos y trascribiendo ejercicios hasta aprender que funcion es lo que hace a quin llama ,a quien invoca ,los getter and setters y la encapsulacion quizas llega a ser confusa pero quizas de ver ejercicios se llega a llevar ,creo que lo primordial fue crear UML y asi entenderlo un poco mas a la hora de pasarlo a codigo  
 ---
 
 ## Evaluation Criteria
 - **UML implementation in Java (encapsulation, constructors, methods):** 50%  
 - **Objects created and tested in `Main`:** 20%  
 - **Reflection:** 30% 
+
+
